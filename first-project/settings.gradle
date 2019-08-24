@@ -1,2 +1,4 @@
 rootProject.name = 'first-project'
+include 'wiki-test'
+include 'wiki'
 

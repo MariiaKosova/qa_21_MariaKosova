@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.selenium.loginToEbay" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-24T16:05:50" hostname="street" time="11.609">
+  <properties/>
+  <testcase name="logInTest" classname="com.telran.selenium.loginToEbay" time="11.609"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Starting ChromeDriver 76.0.3809.126 (d80a294506b4c9d18015e755cee48f953ddc3f2f-refs/branch-heads/3809@{#1024}) on port 28651
+Only local connections are allowed.
+Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
+Using PPAPI flash.
+авг. 24, 2019 7:05:50 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
