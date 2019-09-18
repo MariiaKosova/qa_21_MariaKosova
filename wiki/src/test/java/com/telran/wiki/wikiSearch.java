@@ -8,7 +8,7 @@ public class wikiSearch extends TestBase1 {
     @Test
     public void searchInWiki() {
         String searchWord="dogo argentino";
-        frwork.printInSearchAndGo(searchWord);
-        Assert.assertEquals(frwork.findArticleTitle(), searchWord.toLowerCase());
+        frwork.getSearch().printInSearchAndGo(searchWord);
+        Assert.assertEquals(frwork.getSearch().findArticleTitle(), searchWord.toLowerCase());
     }
 }
