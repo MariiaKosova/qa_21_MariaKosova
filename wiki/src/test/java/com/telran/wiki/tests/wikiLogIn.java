@@ -1,5 +1,6 @@
-package com.telran.wiki;
+package com.telran.wiki.tests;
 
+import com.telran.wiki.manager.TestBase1;
 import org.openqa.selenium.By;
 import org.testng.Assert;
 import org.testng.annotations.Test;

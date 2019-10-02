@@ -3,8 +3,8 @@
 <suite name="Regression wiki" verbose="1" >
     <test name="Nopackage" >
         <classes>
-            <class name="com.telran.wiki.wikiLogIn" />
-            <class name="com.telran.wiki.wikiSearch" />
+            <class name="com.telran.wiki.tests.wikiLogIn" />
+            <class name="com.telran.wiki.tests.wikiSearch" />
         </classes>
     </test>
 </suite>
