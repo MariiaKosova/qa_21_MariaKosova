@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.telran.wiki.tests.wikiSearch" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-06T23:30:52" hostname="street" time="1.58">
+  <properties/>
+  <testcase name="searchInWiki" classname="com.telran.wiki.tests.wikiSearch" time="1.58"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
