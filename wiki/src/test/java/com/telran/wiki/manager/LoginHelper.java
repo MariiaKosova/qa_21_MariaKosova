@@ -23,6 +23,6 @@ public class LoginHelper extends HelperBase {
     }
 
     public boolean incorrectRegistrationHint() {
-        return isElementPresent(By.cssSelector(".error"));
+        return isElementPresent(By.cssSelector(".errorbox"));
     }
 }

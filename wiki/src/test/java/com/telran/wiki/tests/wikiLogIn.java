@@ -12,6 +12,7 @@ public class wikiLogIn extends TestBase1 {
         frwork.getLogin().cliclLogInButtonInHeader();
         frwork.getLogin().fillTheLogInForm(By.id("wpName1"), "ewro@fdsa.com", By.id("wpPassword1"), "3456");
         frwork.getLogin().clickLogInConfirmation();
+        Thread.sleep(7000);
         Assert.assertTrue(frwork.getLogin().incorrectRegistrationHint());
     }
 }

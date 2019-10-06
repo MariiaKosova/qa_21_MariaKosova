@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.telran.wiki.tests.wikiLogIn" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-09-22T19:42:15" hostname="street" time="3.168">
+<testsuite name="com.telran.wiki.tests.wikiLogIn" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-10-06T21:54:21" hostname="street" time="9.779">
   <properties/>
-  <testcase name="logInInWiki" classname="com.telran.wiki.tests.wikiLogIn" time="3.168"/>
+  <testcase name="logInInWiki" classname="com.telran.wiki.tests.wikiLogIn" time="9.779"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
